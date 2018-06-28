@@ -1,0 +1,7 @@
+c:\users\sshazly\Source\Repos\TestServiceBroker\TestServiceBroker\bin\Debug\TestServiceBroker.exe.config
+c:\users\sshazly\Source\Repos\TestServiceBroker\TestServiceBroker\bin\Debug\TestServiceBroker.exe
+c:\users\sshazly\Source\Repos\TestServiceBroker\TestServiceBroker\bin\Debug\TestServiceBroker.pdb
+c:\users\sshazly\Source\Repos\TestServiceBroker\TestServiceBroker\obj\Debug\TestServiceBroker.csprojResolveAssemblyReference.cache
+c:\users\sshazly\Source\Repos\TestServiceBroker\TestServiceBroker\obj\Debug\TestServiceBroker.csproj.CoreCompileInputs.cache
+c:\users\sshazly\Source\Repos\TestServiceBroker\TestServiceBroker\obj\Debug\TestServiceBroker.exe
+c:\users\sshazly\Source\Repos\TestServiceBroker\TestServiceBroker\obj\Debug\TestServiceBroker.pdb
